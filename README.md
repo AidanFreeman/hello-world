@@ -1,3 +1,3 @@
 # hello-world
-which is a test repository
+setup a new job which is a test repository
 what a bad programmer :P
